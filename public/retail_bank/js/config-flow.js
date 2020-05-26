@@ -43,18 +43,13 @@ window.app = {
     {
       icon: 'pi-piggybank',
       title: 'accountpicker1_title',
-      id: '***1234',
+      id: '************9990',
     },
     {
       icon: 'pi-money',
       title: 'accountpicker2_title',
-      id: '***5678',
-    },
-    {
-      icon: 'pi-credit',
-      title: 'accountpicker3_title',
-      id: '***7890',
-    },
+      id: '******9975',
+    },    
   ],
   recentactivity: [
     {
